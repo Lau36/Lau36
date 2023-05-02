@@ -1,7 +1,8 @@
-### Hi there 👋
+Hi  👋
+
+I'm laura Jaimes a systems engineering student at universidad del valle.
 
 <!--
-**Lau36/Lau36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div>
+  <a href="https://github.com/Lau36/Lau36">
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Lau36&show_icons=true&theme=compact"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lau36&layout=compact"/>
+</div>

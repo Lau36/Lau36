@@ -1,6 +1,6 @@
 Hi  👋
 
-My names is laura Jaimes and i'm a systems engineering student at universidad del valle.
+I'm a systems engineering student at universidad del valle.
 
 <!--
 
